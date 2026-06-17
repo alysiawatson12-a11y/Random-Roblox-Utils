@@ -1,9 +1,8 @@
 # <b>Loadstrings</b>
 
 # AntiAFK
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NoTwistedHere/Roblox/main/AntiAFK.lua"))()
-```
+```when jump give mfr bat dragon
+
 
 # FunctionDump(er) (can be placed in autoexec)
 ```lua
